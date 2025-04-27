@@ -1,4 +1,4 @@
-import Post from "@/Postlib/models/Post";
+import Post from "@/lib/models/Post";
 import { connectToDB } from "@/lib/mongodb/mongoose";
 import { writeFile } from "fs/promises";
 
