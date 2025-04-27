@@ -8,7 +8,6 @@ import RightSideBar from "@/componets/layout/RightSideBar";
 import BottomBar from "@/componets/layout/BottomBar";
 import LeftSideBar from "@/componets/layout/LeftSideBar";
 import MainContainer from "@/componets/layout/MainContainer";
-import TopBar from "../../componets/Layout/TopBar";
 
 export const metadata = {
   title: "Vibe Zone",
