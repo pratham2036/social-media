@@ -1,7 +1,7 @@
 "use client";
 
 import Loader from '@/Loader'
-import UserCard from '@.componets/cards/UserCard'
+import UserCard from '@/componets/cards/UserCard'
 import React, { useEffect, useState } from 'react'
 
 const People = () => {
